@@ -1,0 +1,335 @@
+﻿Par Emocional 12
+Par Biomagnético: Timo - Occipital
+Descrição: Angústia.
+
+Par Emocional 13
+Par Biomagnético: Cerebelo - Mediastino
+Descrição: Ansiedade (esse ponto acalma e traz muita paz interior).
+
+Par Emocional 14
+Par Biomagnético: Occipital - Occipital
+Descrição: Ansiedade e Esquizofrenia. Cansaço. Psicopatias. Bipolaridade e Neurose. Irritabilidade. Ansiedade nervosa e palpitações. Vício em drogas. Vícios em geral.
+
+Par Emocional 15
+Par Biomagnético: Estômago - Coração
+Descrição: Diminui ansiedade de comer. Gula, comer doces.
+
+Par Emocional 16
+Par Biomagnético: Vesícula - Hipotálamo
+Descrição: Ansiedade.
+
+Par Emocional 17
+Par Biomagnético: Adutor Menor - Adutor Menor
+Descrição: Frustração.
+
+Par Emocional 18
+Par Biomagnético: Talo - Cerebelo
+Descrição: Insegurança.
+
+Par Emocional 19
+Par Biomagnético: Hipófise - Suprassensorial
+Descrição: Controle emocional. Depressão aguda. Fechar o corpo para energias externas. Emoções: tristeza, solidão, medo, angústia, ansiedade, depressão.
+
+Par Emocional 20
+Par Biomagnético: Occipital - Sacro
+Descrição: Os 2 ímãs são negativos. Reduz os efeitos da ancestralidade.
+
+Par Emocional 21
+Par Biomagnético: Pulmão Direito - Bulbo Raquídeo
+Descrição: Tristeza.
+
+Par Emocional 22
+Par Biomagnético: Coração - Têmpora Direita
+Descrição: Tristeza.
+
+Par Emocional 23
+Par Biomagnético: Coração - Pulmão Direito
+Descrição: Tristeza.
+
+Par Emocional 24
+Par Biomagnético: Bexiga - Coração
+Descrição: Ressentimento, mágoa.
+
+Par Emocional 25
+Par Biomagnético: ECM Direito - Rim Esquerdo
+Descrição: Estresse, nervosismo.
+
+Par Emocional 26
+Par Biomagnético: Coração - Coração
+Descrição: Negatividade. Sensibilidade extrema aos acontecimentos externos.
+
+Par Emocional 27
+Par Biomagnético: Rótula - Rótula
+Descrição: Medo, angústia e ansiedade. Depressão Bipolar.
+
+Par Emocional 28
+Par Biomagnético: Olho (D/E) - Rim Esquerdo
+Descrição: Medo de coisas comuns, como: aranha, escuro, relâmpagos. Transtornos psicossomáticos do rim (ansiedade: existencial e sexual).
+
+Par Emocional 29
+Par Biomagnético: Coração - Fígado
+Descrição: Ódio, raiva, rancor.
+
+Par Emocional 30
+Par Biomagnético: Paratireoide (D) - Coração
+Descrição: Ódio, raiva, rancor.
+
+Par Emocional 31
+Par Biomagnético: Fígado - Pâncreas
+Descrição: Cansaço físico.
+
+Par Emocional 32
+Par Biomagnético: Pulmão (D) – Pulmão (E)
+Descrição: Sentimento de culpa (rastrear à frente e atrás).
+
+Par Emocional 33
+Par Biomagnético: Tálamo - Tálamo
+Descrição: Hiperatividade. Estresse, agressividade, irritabilidade.
+
+Par Emocional 34
+Par Biomagnético: Interciliar - Bulbo
+Descrição: Caráter. Disparos emocionais. Excesso de timidez ou caráter forte. Desorientação (sem atenção). Rebeldia (para crianças). Personalidade forte. Dúvidas. Melhora Baixa Autoestima e Hiperatividade.
+
+Par Emocional 35
+Par Biomagnético: Dorso Mão - Dorso Mão
+Descrição: Instabilidade, Dúvida.
+
+Par Emocional 36
+Par Biomagnético: Lateral da Cabeça Direita – Rim Esquerdo
+Descrição: Luz de alarme acesa: algo está mal. Transtornos de conduta. Esgotamento. Estresse. Trauma emocional.
+
+Par Emocional 37
+Par Biomagnético: Peito do Pé – Peito do Pé
+Descrição: Dúvida.
+
+Par Emocional 38
+Par Biomagnético: Seio Frontal Esquerdo - Têmpora Direita
+Descrição: Liberar processos e excessos emocionais.
+
+Par Emocional 39
+Par Biomagnético: Coração - Mastoide
+Descrição: Agressividade.
+
+Par Emocional 40
+Par Biomagnético: Hipófise - Mastoide
+Descrição: Depressão.
+
+Par Emocional 41
+Par Biomagnético: Colo Pâncreas - Maxilar Superior Direito
+Descrição: Depressão.
+
+Par Emocional 42
+Par Biomagnético: Cerebelo – Sacro
+Descrição: Falta de concentração.
+
+Par Emocional 43
+Par Biomagnético: Pâncreas - Estômago
+Descrição: Gula.
+
+Par Emocional 44
+Par Biomagnético: Coração - Estômago
+Descrição: Gula.
+
+Par Emocional 45
+Par Biomagnético: Vagina (Próstata) - Estômago
+Descrição: Gula.
+
+Par Emocional 46
+Par Biomagnético: Tireoide - Rim Esquerdo
+Descrição: Medos.
+
+Par Emocional 47
+Par Biomagnético: Occipital - Occipital
+Descrição: Vício/Dependência.
+
+Par Emocional 48
+Par Biomagnético: Corpo Caloso - Corpo Caloso
+Descrição: Vício/Dependência.
+
+Par Emocional 49
+Par Biomagnético: Tireoide – Hipófise
+Descrição: Desejo de vingança.
+
+Par Emocional 50
+Par Biomagnético: Útero - Nervo Inguinal Direito
+Descrição: Cansaço.
+
+Par Emocional 51
+Par Biomagnético: Pescoço - Calcâneo(D/E)
+Descrição: Autismo.
+
+Par Emocional 52
+Par Biomagnético: Polo (D/E) - Calcâneo (D/E)
+Descrição: Autismo.
+
+Par Emocional 53
+Par Biomagnético: Vago Esquerdo – Rim (D/E)
+Descrição: Autismo Falso.
+
+Par Emocional 54
+Par Biomagnético: Vagina/Próstata - Pineal
+Descrição: Ninfomania.
+
+Par Emocional 55
+Par Biomagnético: Cisura Média - Cisura Média
+Descrição: Altivez/Arrogância.
+
+Par Emocional 56
+Par Biomagnético: Bulbo - Coração
+Descrição: Crueldade.
+
+Par Emocional 57
+Par Biomagnético: Rim (D/E) - Fronto Parietal
+Descrição: Má - conduta.
+
+Par Emocional 58
+Par Biomagnético: Hipófise - Mastoide Esquerdo
+Descrição: Telepatia. Os 2 ímãs são negativos
+
+Par Emocional 59
+Par Biomagnético: Têmpora Esquerda - Hipófise
+Descrição: Visão Expandida (3ºOlho). Os 2 ímãs são negativos
+
+Par Emocional 60
+Par Biomagnético: Frontal Direito - Frontal Direito
+Descrição: Bem-estar.
+
+Par Emocional 61
+Par Biomagnético: Cerebelo - Piso Orbital (D/E)
+Descrição: Depressão.
+
+Par Emocional 62
+Par Biomagnético: Cerebelo - Cerebelo
+Descrição: Insegurança.
+
+Par Emocional 63
+Par Biomagnético: Timo - Ovário/Testículo
+Descrição: Impaciência.
+
+Par Emocional 64
+Par Biomagnético: Traqueia - Coração
+Descrição: Intolerância.
+
+Par Emocional 65
+Par Biomagnético: Fígado - Língua Esquerda
+Descrição: Pessimismo.
+
+Par Emocional 66
+Par Biomagnético: Frontal Esquerdo - Frontal Esquerdo
+Descrição: Falta de Serenidade.
+
+Par Emocional 67
+Par Biomagnético: Fígado - Suprarrenal
+Descrição: Arrogância.
+
+Par Emocional 68
+Par Biomagnético: Baço - Hipotálamo
+Descrição: Preguiça.
+
+Par Emocional 69
+Par Biomagnético: Pineal - Parótida Esquerda
+Descrição: Memória fraca.
+
+Par Emocional 70
+Par Biomagnético: Rim - Rim
+Descrição: Confusão mental.
+
+Par Emocional 71
+Par Biomagnético: Rim (D/E) - Lóbulo Posterior Fígado
+Descrição: Falta de concentração.
+
+Par Emocional 72
+Par Biomagnético: Suprarrenal - Amígdala Cerebral
+Descrição: Ódio.
+
+Par Emocional 73
+Par Biomagnético: Pineal - Tireoide
+Descrição: Alcoolismo.
+
+Par Emocional 74
+Par Biomagnético: Tireoide - Pômulo Direito
+Descrição: Vício em Drogas.
+
+Par Emocional 75
+Par Biomagnético: Estômago - Piloro
+Descrição: Falta de autoestima.
+
+Par Emocional 76
+Par Biomagnético: Colo Pâncreas - Rama Mandibular
+Descrição: Bipolaridade.
+
+Par Emocional 77
+Par Biomagnético: Parótida Esquerda - Occipital
+Descrição: Claustrofobia.
+
+Par Emocional 78
+Par Biomagnético: Coração - Pâncreas
+Descrição: Inveja.
+
+Par Emocional 79
+Par Biomagnético: Coração - Língua Esquerda
+Descrição: Egoísmo.
+
+Par Emocional 80
+Par Biomagnético: Têmpora Esquerda - Fronto Parietal direita
+Descrição: Hiperatividade.
+
+Par Emocional 81
+Par Biomagnético: Têmpora - Têmpora
+Descrição: Hiperatividade.
+
+Par Emocional 82
+Par Biomagnético: Timo - Hipófise
+Descrição: Avareza.
+
+Par Emocional 83
+Par Biomagnético: Nuca - Sacro
+Descrição: Fechamento de portais e limpeza de personas.
+
+Par Emocional 84
+Par Biomagnético: Umbigo – Útero
+Descrição: Relação Complexo de Édipo Dependência materna
+
+Par Emocional 85
+Par Biomagnético: Umbigo – Testículo (D/E)
+Descrição: Relação Complexo Eletra Dependência do pai.
+
+Par Emocional 86
+Par Biomagnético: Pós Pineal – Pós Pineal
+Descrição: Relação Integridade Moral
+
+Par Emocional 87
+Par Biomagnético: Fissura Silviana (D) – Fissura Silviana (E)
+Descrição: Relação Inspiração Bloqueio Criativo
+
+Par Emocional 88
+Par Biomagnético: Suprarrenal – Fígado
+Descrição: Sintomas Orgulho / Soberba
+
+Par Emocional 89
+Par Biomagnético: Pineal – Próstata/Útero
+Descrição: Luxúria
+
+Par Emocional 90
+Par Biomagnético: Atlas – Atlas
+Descrição: Relação Sexualidade - Libido, Ausência ou excesso de libido
+
+Par Emocional 91
+Par Biomagnético: Fígado – Coração
+Descrição: Relação Ira
+
+Par Emocional 92
+Par Biomagnético: Cólon Transverso – Ovário/Testículo (D/E)
+Descrição: Materialismo
+
+Par Emocional 93
+Par Biomagnético: Amígdala Cerebral – Timo
+Descrição: Ódio
+
+Par Emocional 94
+Par Biomagnético: Atlas – Útero
+Descrição: Ciúmes
+
+Par Emocional 95
+Par Biomagnético: Occipital – Testículo
+Descrição: Malignidade
