@@ -1,4 +1,0 @@
-﻿Reservatório 3
-Par Biomagnético: Vesícula – Vesícula
-Descrição: Reservatório específico de vírus (Prada). É um reservatório que, se for impactado (neutralizado), deve-se checar todos os reservatórios outra vez.
-Tipo: Reservatório Vírus.
