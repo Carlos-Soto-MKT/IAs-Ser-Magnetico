@@ -1,4 +1,4 @@
-Reservatório 1
+﻿Reservatório 1
 Par Biomagnético: Pleura (D/E) – Peritônio
 Descrição: Principal reservatório de bactérias, principalmente relacionado aos pulmões. Rastrear e, se der, colocar o par e depois rastrear se há mais reservatórios. Verificar as polaridades e os lados (Direito/Esquerdo).
 Tipo: Reservatório Principal de Bactérias.
