@@ -1,4 +1,4 @@
-IMAGEM=
+IMAGEM=https://raw.githubusercontent.com/Carlos-Soto-MKT/IAs-Ser-Magnetico/refs/heads/main/BIO-HUMANO/SISTEMAS/SISTEMA-29.jpg
 29 - SISTEMA PARA DEPRESSÃO
 
 Sistema especial para tratar os sintomas da depressão.
