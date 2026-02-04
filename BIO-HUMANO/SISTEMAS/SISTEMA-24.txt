@@ -1,3 +1,5 @@
+IMAGEM=https://raw.githubusercontent.com/Carlos-Soto-MKT/IAs-Ser-Magnetico/refs/heads/main/BIO-HUMANO/SISTEMAS/SISTEMA-24.jpg
+
 24 - SISTEMA PÓS-VACINAS
 Protocolo especial para tratar os sintomas das vacinas
 
