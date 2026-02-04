@@ -1,3 +1,5 @@
+IMAGEM=https://raw.githubusercontent.com/Carlos-Soto-MKT/IAs-Ser-Magnetico/refs/heads/main/BIO-HUMANO/SISTEMAS/SISTEMA-31.jpg
+
 31 – SISTEMA SECA BARRIGA
 
 Protocolo especial para reduzir a barriga (distensão abdominal)
