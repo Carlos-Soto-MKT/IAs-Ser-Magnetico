@@ -2,7 +2,7 @@ IMAGEM=https://raw.githubusercontent.com/Carlos-Soto-MKT/IAs-Ser-Magnetico/refs/
 
 29 - SISTEMA PARA DEPRESSÃO
 
-Sistema especial para tratar os sintomas da depressão.
+Sistema especial para tratar os sintomas da depressão..
 Para realizar esse sistema, impactar pares casados em cada ponto, conforme ilustração abaixo, todos juntos e ao mesmo tempo.
 Dessa forma, você estimulará os campos energéticos de cada ponto.
 Faça perguntas para saber por quanto tempo deve impactar os ímãs.
