@@ -7,27 +7,3 @@ Os filhotes e os cães jovens são mais vulneráveis à doença, pois ainda não
 Sintomas: os sintomas da parvovirose em cães incluem vômitos, diarreia líquida e com sangue, febre, letargia e falta de apetite.
 
 Pares Biomagnéticos:
-01
-Uretra - Uretra
-
-02
-Testículo - Testículo
-
-03
-Parietal (D/E) - Parietal (D/E)
-
-04
-Estômago - Suprarrenal Esquerdo
-
-05 
-Pata Dianteira - Pata Dianteira
-
-06 
-Timo - Reto
-
-07 
-Suprarrenais - Suprarrenais
-
-08 
-Sigmoide - Reto
-
