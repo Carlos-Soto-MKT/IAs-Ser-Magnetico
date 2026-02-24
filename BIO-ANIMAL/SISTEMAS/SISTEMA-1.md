@@ -7,48 +7,6 @@ Também pode ocorrer intoxicações por raticidas, metais pesados, e picadas de 
 
 Sintomas: desanimado e sem apetite; pele inflamada; perda de pelo; seu pelo parece diferente; escoriações ao redor do focinho; vermelhidão das pernas; orelhas inflamadas. Sintomas de Intoxicação: vômitos e diarreia; salivação excessiva; fraqueza e letargia; dificuldade para respirar; tremores musculares e convulsões; perda de equilíbrio e coordenação motora; batimentos cardíacos irregulares; mucosas pálidas ou amareladas; mudanças de comportamento, como agitação ou apatia.
 
-Pares Biomagnéticos:
-01
-Cervical 2 - Cervical 2 
-
-02
-Retro-Hepático - Retro-Hepático 
-
-03
-Canto do Olho - Canto do Olho
-
-04
-Mediastino - Pericárdio 
-
-05 
-Umbigo - Umbigo
-
-06 
-Axila Direita - Timo
-
-07 
-Axila Esquerda - Timo
-
-08
-Pâncreas - Estômago
-
 Sintomas de Intoxicação: vômitos e diarreia; salivação excessiva; fraqueza e letargia; dificuldade para respirar; tremores musculares e convulsões; perda de equilíbrio e coordenação motora;  batimentos cardíacos irregulares; mucosas pálidas ou amareladas; mudanças de comportamento, como agitação ou apatia.
 
-09
-Estômago - Piloro
-
-10
-Corpo Pâncreas - Cauda do Pâncreas
-
-11
-Rim - Rim
-
-12
-Lóbulo Posterior Fígado - Rim
-
-13
-Estômago - Cauda do Pâncreas
-
-14 
-Cólon Ascendente - Rim
-
+Pares Biomagnéticos:
