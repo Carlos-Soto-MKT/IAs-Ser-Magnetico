@@ -11,20 +11,3 @@ Hipertensão arterial - é quando a pressão arterial do animal está acima do n
 Sintomas: alguns sintomas a serem observados incluem dificuldade para respirar, tosse, letargia, perda de apetite e claudicação.
 
 Pares Biomagnéticos:
-01
-Coração - Coração
-
-02
-Coração - Pulmão
-
-03
-Pericárdio - Pericárdio
-
-04 
-Umbigo - Umbigo
-
-05 
-Esterno - Suprarrenais
-
-06 
-Mastoide - Mastoide
