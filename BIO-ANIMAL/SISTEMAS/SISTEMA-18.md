@@ -4,34 +4,3 @@ A obesidade em animais de estimação é um problema comum e crescente em todo o
 Diabetes, doenças, problemas respiratórios, problemas ortopédicos, problemas de pele, diminuição da qualidade de vida.
 
 Pares Biomagnéticos:
-01
-Duodeno - Tireoides 
-
-02
-Estômago - Fígado
-
-03
-Hipófises - Tireoides
-
-04
-Hipófises - Suprarrenais
-
-05
-Pâncreas - Fígado
-
-06 
-Parótida - Parótida 
-
-07 
-Plexo Lombar - Plexo Lombar
-
-08 
-Tireoides - Tireoides
-
-09 
-Pâncreas - Pâncreas
-
-10 
-Ilíaco - Ilíaco
-
-
