@@ -1,4 +1,5 @@
 5 - SISTEMA ODONTOLÓGICO
+
 Assim como os humanos, os animais de estimação podem sofrer de diversos problemas dentais que podem afetar a saúde e a qualidade de vida. Alguns dos problemas dentais mais comuns em animais de estimação incluem:
 Placa bacteriana - acúmulo de bactérias nos dentes e gengivas, que pode causar mau hálito, inflamação e sangramento das gengivas, além de levar a problemas mais graves como periodontite e perda dentária; 
 Tártaro - acúmulo de placa bacteriana que se solidifica nos dentes, formando uma camada dura e amarelada; 
