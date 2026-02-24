@@ -6,27 +6,3 @@ Em alguns casos, os cães podem ser portadores assintomáticos da leishmaniose, 
 Sintomas: perda de peso, apatia e fraqueza, feridas na pele que não cicatrizam (na forma cutânea), febre, anemia, aumento do tamanho dos gânglios linfáticos, sangramento nasal (em casos graves), vômitos, diarreia e problemas renais (na forma visceral).
 
 Pares Biomagnéticos:
-
-01
-Deltoide - Rim
-
-02
-Cápsula Renal - Cápsula Renal
-
-03
-Cervical - Sacro
-
-04
-Cólon Ascendente - Cólon Ascendente
-
-05 
-Subclavicular - Subclavicular
-
-06 
-Língua - Língua
-
-07 
-Tíbia - Tíbia
-
-08 
-Suprarrenais - Suprarrenais
