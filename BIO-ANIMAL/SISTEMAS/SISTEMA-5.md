@@ -9,18 +9,3 @@ Periodontite - inflamação que afeta as estruturas de suporte dos dentes, como 
 Sintomas: podem incluir mau hálito, perda de apetite, dificuldade para mastigar ou comer, sangramento ou inflamação das gengivas, salivação excessiva, alterações no comportamento, entre outros.
 
 Pares Biomagnéticos:
-01
-Maxilar Superior - Maxilar Superior
-
-02
-Mandíbula - Mandíbula
-
-03
-Ângulo - Ângulo
-
-04 
-Hiato - Esôfago
-
-05 
-Estômago - Estômago
-
