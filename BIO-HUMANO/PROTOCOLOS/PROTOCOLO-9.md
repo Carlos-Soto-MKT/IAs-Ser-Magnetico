@@ -1,4 +1,4 @@
-**COMPLEXOS GASTRO 2**
+**COMPLEXOS GASTRO 3**
 
 
 
@@ -8,11 +8,15 @@ Os complexos Gastrointestinais ajudam o sistema imunológico a identificar e eli
 
 
 
-**Pares biomagnéticos GASTRO 2**
-Fígado Direito (positivo)
-Colón Ascendente (negativo)
-Colón Descendente (negativo)
-Colón Descendente (positivo)
+**Pares biomagnéticos GASTRO 3**
+Timo (positivo)
+Estômago (negativo)
+Sigmoide (negativo)
+Suprarrenais (positivo)
+Sacro (positivo)
+Reto (positivo)
+
+\*Os Pares do Complexo Gastrointestinal 3 são usados mais em casos de disfunções gástricas e intestinal como gastrites, constipação, diarreias...
 
 
 
