@@ -1,1 +1,1 @@
-Liberando e soltando todas os espíritos que estão aprisionadas nos corpos, físico, astral, espiritual, etérico, mental, em todos os registros, em RNA e DNA do (nome da pessoa/ ou animal) liberando e soltando, liberando e soltando, assim é, assim é. Inspira e solta
+Liberando e soltando todas as energias diabólicas que estão aprisionadas nos corpos, físico, astral, espiritual, etérico, mental, em todos os registros, em RNA e DNA do (nome da pessoa/ ou animal) liberando e soltando, liberando e soltando, assim é, assim é. Inspira e solta
